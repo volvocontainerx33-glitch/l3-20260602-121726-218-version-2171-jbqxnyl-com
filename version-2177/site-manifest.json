@@ -1,0 +1,56 @@
+{
+  "title": "日韩高分电影-高分电影排行榜-高清视频在线播放",
+  "logo": "日韩高分电影",
+  "movie_count": 2000,
+  "video_source_count_from_uploaded_js": 150,
+  "categories": [
+    {
+      "name": "日韩高分",
+      "slug": "japanese-korean"
+    },
+    {
+      "name": "剧情爱情",
+      "slug": "drama-romance"
+    },
+    {
+      "name": "悬疑惊悚",
+      "slug": "suspense-thriller"
+    },
+    {
+      "name": "动作犯罪",
+      "slug": "action-crime"
+    },
+    {
+      "name": "喜剧奇幻",
+      "slug": "comedy-fantasy"
+    },
+    {
+      "name": "动画少儿",
+      "slug": "animation-family"
+    },
+    {
+      "name": "纪录音乐",
+      "slug": "documentary-music"
+    },
+    {
+      "name": "剧集综艺",
+      "slug": "series-variety"
+    },
+    {
+      "name": "亚洲精选",
+      "slug": "asia-picks"
+    },
+    {
+      "name": "环球佳片",
+      "slug": "world-cinema"
+    },
+    {
+      "name": "经典热门",
+      "slug": "classic-hot"
+    },
+    {
+      "name": "新片推荐",
+      "slug": "new-release"
+    }
+  ]
+}
